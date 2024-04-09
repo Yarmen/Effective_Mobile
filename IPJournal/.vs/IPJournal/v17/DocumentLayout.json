@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Effective Mobile\\IPJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72DE06-3039-451C-8974-B6D110D18639}|..\\IPJournal.Test\\IPJournal.Test.csproj|c:\\projects\\effective mobile\\ipjournal.test\\ipjournal.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|c:\\projects\\effective mobile\\ipjournal\\ipjournal.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|solutionrelative:ipjournal.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|c:\\projects\\effective mobile\\ipjournal\\ipjournal.log||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|solutionrelative:ipjournal.log||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|c:\\projects\\effective mobile\\ipjournal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|c:\\projects\\effective mobile\\ipjournal\\addressreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3507DF6-57A5-45F7-9F40-B2F1804C7E90}|IPJournal.csproj|solutionrelative:addressreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A72DE06-3039-451C-8974-B6D110D18639}|..\\IPJournal.Test\\IPJournal.Test.csproj|c:\\projects\\effective mobile\\ipjournal.test\\logprocessortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPJournal.Test.csproj",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal.Test\\IPJournal.Test.csproj",
+              "RelativeDocumentMoniker": "..\\IPJournal.Test\\IPJournal.Test.csproj",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal.Test\\IPJournal.Test.csproj",
+              "RelativeToolTip": "..\\IPJournal.Test\\IPJournal.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-07T16:05:52.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPJournal.txt",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal\\IPJournal.txt",
+              "RelativeDocumentMoniker": "IPJournal.txt",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal\\IPJournal.txt",
+              "RelativeToolTip": "IPJournal.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-07T16:11:08.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPJournal.log",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal\\IPJournal.log",
+              "RelativeDocumentMoniker": "IPJournal.log",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal\\IPJournal.log",
+              "RelativeToolTip": "IPJournal.log",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-05T18:18:11.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T18:12:29.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddressReader.cs",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal\\AddressReader.cs",
+              "RelativeDocumentMoniker": "AddressReader.cs",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal\\AddressReader.cs",
+              "RelativeToolTip": "AddressReader.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAYwNYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T18:31:22.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogProcessorTests.cs",
+              "DocumentMoniker": "C:\\Projects\\Effective Mobile\\IPJournal.Test\\LogProcessorTests.cs",
+              "RelativeDocumentMoniker": "..\\IPJournal.Test\\LogProcessorTests.cs",
+              "ToolTip": "C:\\Projects\\Effective Mobile\\IPJournal.Test\\LogProcessorTests.cs",
+              "RelativeToolTip": "..\\IPJournal.Test\\LogProcessorTests.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAqwJQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T16:06:45.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
